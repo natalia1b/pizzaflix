@@ -1,15 +1,15 @@
 body {
-    color: lime;
+    color: rgb(255, 0, 0);
     background: black;
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(255, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(255, 0, 0);
 }
 
 .background {

@@ -87,7 +87,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: lime black;
+    scrollbar-color: rgb(255, 0, 0) black;
     scrollbar-width: thin;
     gap: 10px;
 }
@@ -105,11 +105,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid lime;
+    border: 3px solid rgb(255, 0, 0);
 }
 
 .categoria h2 {
-    color: lime;
+    color: rgb(255, 0, 0);
 }
 
 .copyright {

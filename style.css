@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: lime;
+    color: rgb(255, 0, 0);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: lime;
+    color: rgb(255, 0, 0);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
